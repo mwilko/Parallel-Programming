@@ -1,6 +1,6 @@
 #include <iostream>
 #include <vector>
-// #include "Clmg.h"  // Image loader
+#include "CImg.h"  // Image loader
 #include "Utils.h" // Helpers
 #include <CL/cl2.hpp>
 
